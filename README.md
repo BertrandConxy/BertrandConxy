@@ -47,9 +47,6 @@ fascinated</b>
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular" width="70px"/> 
-  </a>
 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
@@ -67,14 +64,6 @@ fascinated</b>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="webpack"/>
-  </a>
-    <a href="https://https://threejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Three-three--js-blue"
-      alt="Threejs"/>
-  </a>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Typescript-Typescript-yellow"
-      alt="Typescript"/>
   </a>
   
  ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
