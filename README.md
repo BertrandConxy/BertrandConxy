@@ -1,4 +1,4 @@
-<p align="center"></p><hr><h1 align="center">Hello World<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Stand-alone Full-stack Software Developer  </h3><h4 align="center">I have 2 years programming experience.</h4>
+<p align="center"></p><hr><h1 align="center">Hello World<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="8px">, I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Stand-alone Full-stack Software Developer  </h3><h4 align="center">I have 2 years programming experience.</h4>
 <p align="center">I have much interest in building UI using React and RESTful API using Rails. I'm also good at content creation, website designing, and some sort of 3D animation. <br>
   I'm constantly striving to build systems and tools that improve the community's way of living. Curiosity is the one that pushes me to learn more and seek for more adventure in this internet world. Do you know what is trending? <strong>Web3</strong> That is why I'm learning new technologies to dive into web3.</p>
 
@@ -6,8 +6,8 @@
   <em>I'm always <b>
 fascinated</b>
     about new challenges to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="8px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="8px">&nbsp
     because as you know <b>What doesn't kill you, makes you stronger.</b>
   </em> 
   <br>
