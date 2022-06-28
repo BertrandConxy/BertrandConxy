@@ -1,13 +1,13 @@
-<p align="center"></p><hr><h1 align="center">Hello World<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="8px"><br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Stand-alone Full-stack Software Developer  </h3><h4 align="center">I have 2 years programming experience.</h4>
-<p align="center">I have much interest in building UI using React and RESTful API using Rails. I'm also good at content creation, website designing, and some sort of 3D animation. <br>
-  I'm constantly striving to build systems and tools that improve the community's way of living. Curiosity is the one that pushes me to learn more and seek for more adventure in this internet world. Do you know what is trending? <strong>Web3</strong> That is why I'm learning new technologies to dive into web3.</p>
+<p align="center"></p><hr><h1 align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Stand-alone Full-stack Software Developer  </h3><h4 align="center">I have 2 years programming experience.</h4>
+<p align="center">I have much interest in building outstanding UI(s) using React and RESTful API(s) using Ruby on Rails. I'm also good at content creation, website designing, and 3D animation. <br>
+  I'm constantly striving to build systems and tools that improve the community's way of living. Curiosity is the one that pushes me to learn more and seek for more adventure in this internet world. Do you know what is trending?🤔 <strong>Web3</strong>. That is why I'm learning new technologies to dive into this marvelous adventure.</p>
 
 <p align="center">
   <em>I'm always <b>
 fascinated</b>
     about new challenges to 
-    <b>grow</b> and 
-    <b>excel</b>&nbsp
+    <b>grow 💪 </b> and 
+    <b>excel 🚀</b>
     because as you know <b>What doesn't kill you, makes you stronger.</b>
   </em> 
   <br>
@@ -18,26 +18,31 @@ fascinated</b>
 
 <h3>Languages</h3>
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-   <a href="https://www.ruby-lang.org/en/" target="_blank"> 
+      alt="javascript"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.ruby-lang.org/en/" target="_blank">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
     <img src="https://img.shields.io/badge/Ruby-F7DF1E.svg?style=for-the-badge&logo=Ruby&logoColor=red"
-      alt="Ruby"/> 
+      alt="Ruby"/>
   </a>
 </p>
 <p>
 <h3>Frontend</h3>
 <p>
-      <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </a>
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+ <a href="https://getbootstrap.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
   </a>
   
   <a href="https://redux.js.org" target="_blank"> 
@@ -47,17 +52,15 @@ fascinated</b>
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
   </a>
   <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" alt="webpack.svg" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
   
- ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-  
- ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-  
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-  
-  
+ <a href="https://figma.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma-plain.svg" width="40" height="40"/>
+  </a>
 </p>
 <p>
 <h3>Backend</h3>
@@ -149,27 +152,26 @@ fascinated</b>
 
 # Github's Status
 
-  <p align="center">
-   <a href="https://github.com/shoirata">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BertrandConxy&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertrandConxy&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
-  </a>
-</p>
-</h3>
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=BertrandConxy&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="BertrandConxy github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertrandConxy&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
+</div>
 
+ <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=BertrandConxy&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Bertrand Conxy" /></div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BertrandConxy}/count.svg" /></p> 
+<br></div>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-Ask me anything here
-or email me 
-http://mutanganabertrand@gmail.com
+Ask me anything here or email me [My Email](http://mutanganabertrand@gmail.com)
 
 ⭐️ From [Bertrand Mutangana](https://github.com/BertrandConxy)
 
-## Happy Coding! 😊
+***Happy Coding! 💻***
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
 
-<!--
-**BertrandConxy/BertrandConxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
