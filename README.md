@@ -1,6 +1,6 @@
-<p align="center"></p><hr><h1 align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Full-stack Software Developer  </h3><h4 align="center">I have 2 years programming experience.</h4>
-<p align="center">I have much interest in building outstanding UI(s) using React and RESTful API(s) using Ruby on Rails. I'm also good at content creation, website designing, and 3D animation. <br>
-  I'm constantly striving to build systems and tools that improve the community's way of living. Curiosity is the one that pushes me to learn more and seek for more adventure in this internet world. Do you know what is trending?🤔 <strong>Web3</strong>. That is why I'm learning new technologies to dive into this marvelous adventure.</p>
+<p align="center"></p><hr><h1 align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Full-stack Software Developer  </h3><h4 align="center">I have 1+ years programming experience.</h4>
+<p align="center">I am commited to building outstanding UI(s) using React and Next together with other modern technologies. I build RESTful API(s) using Ruby and Ruby on Rails. I'm also good at content creation, website designing, and 3D animation. <br>
+  I'm constantly striving to build systems and tools that improve the community's way of living by contributing to open-source projects and my own projects. Curiosity is the one that pushes me to learn more and seek for more adventure in this internet world. That is why I'm learning and turning into a better version of my self day by day!😎</p>
 
 <p align="center">
   <em>I'm always <b>
@@ -23,6 +23,13 @@ fascinated</b>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.typescriptlang.org/" target="_blank">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>
+   <img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/>
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
    <a href="https://www.ruby-lang.org/en/" target="_blank">
      <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
     <img src="https://img.shields.io/badge/Ruby-F7DF1E.svg?style=for-the-badge&logo=Ruby&logoColor=red"
