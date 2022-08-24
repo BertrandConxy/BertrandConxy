@@ -1,4 +1,4 @@
-<p align="center"></p><hr><h1 align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Stand-alone Full-stack Software Developer  </h3><h4 align="center">I have 2 years programming experience.</h4>
+<p align="center"></p><hr><h1 align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Full-stack Software Developer  </h3><h4 align="center">I have 2 years programming experience.</h4>
 <p align="center">I have much interest in building outstanding UI(s) using React and RESTful API(s) using Ruby on Rails. I'm also good at content creation, website designing, and 3D animation. <br>
   I'm constantly striving to build systems and tools that improve the community's way of living. Curiosity is the one that pushes me to learn more and seek for more adventure in this internet world. Do you know what is trending?🤔 <strong>Web3</strong>. That is why I'm learning new technologies to dive into this marvelous adventure.</p>
 
