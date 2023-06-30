@@ -1,6 +1,6 @@
-<p align="center"></p><hr><h1 align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Full-stack Software Developer  </h3><h4 align="center">I have 1+ years programming experience.</h4>
-<p align="center">I am commited to building outstanding UI(s) using React and Next together with other modern technologies. I build RESTful API(s) using Ruby and Ruby on Rails. I'm also good at content creation, website designing, and 3D animation. <br>
-  I'm constantly striving to build systems and tools that improve the community's way of living by contributing to open-source projects and my own projects. Curiosity is the one that pushes me to learn more and seek for more adventure in this internet world. That is why I'm learning and turning into a better version of my self day by day!😎</p>
+<p align=center>/p>hr><h1> align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Full-stack Software Developer  </h3><h4 align="center">I have 2+ years programming experience.</h4>
+<p align="center">I am committed to building outstanding UIs so that the user will have a memorable experience interacting with them using modern technologies. I build RESTful APIs using Ruby and Ruby on Rails. I'm also good at content creation, website designing, and animation. <br>
+I'm constantly striving to build systems and tools that improve the community's way of living by contributing to open-source projects and investing in my own projects. Curiosity is the one that pushes me to learn more and seek for more adventure in this technology world. That is why I'm constantly learning and turning into a better version of myself day by day!😎</p>
 
 <p align="center">
   <em>I'm always <b>
