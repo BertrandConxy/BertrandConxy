@@ -1,5 +1,5 @@
-<p align=center>/p>hr><h1> align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Full-stack Software Developer  </h3><h4 align="center">I have 2+ years programming experience.</h4>
-<p align="center">I am committed to building outstanding UIs so that the user will have a memorable experience interacting with them using modern technologies. I build RESTful APIs using Ruby and Ruby on Rails. I'm also good at content creation, website designing, and animation. <br>
+<p align=center></p><hr><h1 align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Full-stack Software Developer  </h3><h4 align="center">I have 2+ years programming experience.</h4>
+<p align="center">I am committed to building outstanding UIs so that the user will have a memorable experience interacting with them using modern technologies. I build RESTful APIs using Ruby and Ruby on Rails and other modern tools. I'm also good at content creation, website designing, and animation. <br>
 I'm constantly striving to build systems and tools that improve the community's way of living by contributing to open-source projects and investing in my own projects. Curiosity is the one that pushes me to learn more and seek for more adventure in this technology world. That is why I'm constantly learning and turning into a better version of myself day by day!😎</p>
 
 <p align="center">
@@ -41,6 +41,10 @@ fascinated</b>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="reactnative" alt="reactnatiive" width="40" height="40"/>&nbsp;
+  </a>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -128,6 +132,9 @@ fascinated</b>
   </a>
   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
+  </a>
+    <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Liniux-0078D6?style=for-the-badge&logo=Linux&logoColor=white" alt="windows"/>
   </a>
 </p>
 
