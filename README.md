@@ -1,5 +1,5 @@
-<p align=center></p><hr><h1 align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Full-stack Software Developer and Software Tester  </h3><h4 align="center">I have 2+ years programming experience.</h4>
-<p align="center">I am committed to building outstanding UIs so that the user will have a memorable experience interacting with them using modern technologies like React, Next, React Native among others. I build RESTful APIs using Ruby and Ruby on Rails and other modern technologies. Manual and automated testing is also part of my daily life where I use technologies like cypress, robot framework, and jest to create test suites and ensure that software applications works as expected<br> It is this dual perspective of both software developer and software test that makes me unique <br>Curiosity is the one that pushes me to learn more and seek for more adventure in this technology world. That is why I'm constantly learning and turning into a better version of myself day by day!😎</p>
+<p align=center></p><hr><h1 align="center">Hello World 👋 <br> I'm Betrand Mutangana Ishimwe</h1><h3 align="center">Full-stack Software Developer and Software Tester  </h3><h4 align="center">I have 3+ years programming experience.</h4>
+<p align="center">I am committed to building outstanding Softwares so that the user will have a memorable experience interacting with them using modern technologies like React, Next, React Native and fast Backend APIs. I build RESTful APIs using Ruby on Rails and Express. Manual and automated testing is also part of my daily life where I use technologies like cypress, robot framework, and jest to create test suites and ensure that software applications works as expected<br> It is this dual perspective of both software developer and software test that makes me unique <br>Curiosity is the one that pushes me to learn more and seek for more adventure in this technology world. That is why I'm constantly learning and turning into a better version of myself day by day!😎</p>
 
 <p align="center">
   <em>I'm always <b>
@@ -28,11 +28,18 @@ fascinated</b>
    <img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
   
    <a href="https://www.ruby-lang.org/en/" target="_blank">
      <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
     <img src="https://img.shields.io/badge/Ruby-F7DF1E.svg?style=for-the-badge&logo=Ruby&logoColor=red"
       alt="Ruby"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <a href="https://www.python.org/" target="_blank">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-F7DF1E.svg?style=for-the-badge&logo=Python&logoColor=blue"
+    alt="Python"/>
   </a>
 </p>
 <p>
